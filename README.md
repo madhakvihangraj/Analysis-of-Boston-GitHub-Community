@@ -1,2 +1,16 @@
-# Analysis of Boston GitHub Community
- This project focuses on analyzing transactional data from JD.com , one of China's largest retailers, collected over March 2018. The dataset encompasses over 2.5 million customers and 31,868 Stock Keeping Units (SKUs). The primary objective is to enhance demand forecasting accuracy by examining purchasing patterns and customer behavior. Through exploratory data analysis and predictive modeling, the project aims to provide actionable insights for optimizing inventory management and supply chain operations.
+# GitHub Users in Boston
+
+This repository contains data about GitHub users in Boston with over 100 followers and their repositories.
+
+## Files
+
+1. `users.csv`: Contains information about 501 GitHub users in Boston with over 100 followers
+2. `repositories.csv`: Contains information about 45408 public repositories from these users
+3. `gitscrap.py`: Python script used to collect this data
+
+## Data Collection
+
+- Data collected using GitHub API
+- Date of collection: 2025-03-29
+- Only included users with 100+ followers
+- Up to 500 most recently pushed repositories per user
