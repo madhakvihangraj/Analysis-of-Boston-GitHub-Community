@@ -1,0 +1,2 @@
+# Analysis of Boston GitHub Community
+ This project focuses on analyzing transactional data from JD.com , one of China's largest retailers, collected over March 2018. The dataset encompasses over 2.5 million customers and 31,868 Stock Keeping Units (SKUs). The primary objective is to enhance demand forecasting accuracy by examining purchasing patterns and customer behavior. Through exploratory data analysis and predictive modeling, the project aims to provide actionable insights for optimizing inventory management and supply chain operations.
